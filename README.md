@@ -1,10 +1,10 @@
 # 👋 Hi, I'm StudentLearner
 
-🚀 AI Systems Engineer | LLM Architecture | DevOps | Cloud  
-⚡ Building real-world AI infrastructure, context engines, and automation systems  
+🚀 AI Systems | LLM Architecture | Runtime Design | Cloud | DevOps  
+⚡ Building engines, frameworks, and intelligence models — not just apps  
 ☁️ Azure • Kubernetes • Python • .NET • GenAI • Observability • Automation  
 
-Focused on designing scalable systems for Large Language Models, cloud platforms, and developer tooling.
+Focused on designing scalable systems for Large Language Models, intelligence architectures, runtime control, and developer infrastructure.
 
 ---
 
@@ -13,7 +13,7 @@ Focused on designing scalable systems for Large Language Models, cloud platforms
 ### ⚡ ContextFlow — Context Engineering Engine for LLM Pipelines  
 https://github.com/studentleaner/ContextFlow
 
-ContextFlow is a context pipeline engine for Large Language Models with support for:
+ContextFlow is a context pipeline engine for Large Language Models with:
 
 - Token budgeting
 - Context compression
@@ -21,39 +21,82 @@ ContextFlow is a context pipeline engine for Large Language Models with support 
 - Context caching
 - Multi-mode execution
 - Plugin architecture
+- Runtime orchestration
 
 Keywords:  
-LLM • GenAI • Context Engineering • Prompt Engineering • Python • AI Infrastructure
+LLM • GenAI • Context Engineering • Prompt Engineering • AI Infrastructure • Runtime
 
 ---
 
-### 🧠 Axiom — Structured AI / Logic / System Experiments  
+### 🧠 IntelliGenesis — Intelligence Architecture / Cognitive Model Experiments  
+https://github.com/studentleaner/IntelliGenesis
+
+Research project exploring how intelligence can be modeled as modular yet unified systems.
+
+Topics include:
+
+- Human intelligence modeling
+- Cognitive architecture
+- Modular reasoning systems
+- AI system design
+- Neuroscience inspired architectures
+
+Keywords:  
+AI Research • Cognitive Architecture • Intelligence Models • AGI Concepts • LLM
+
+---
+
+### 🧠 Axiom — Planning / Compiler / Execution Architecture Experiments  
 https://github.com/studentleaner/Axiom
 
-Axiom contains experiments related to structured reasoning, system design, and AI architecture.
+Axiom explores structured planning, execution graphs, and system architecture for complex AI pipelines.
+
+Focus areas:
+
+- Plan generation
+- Dependency graphs
+- Execution modeling
+- Runtime separation
+- System design
 
 Keywords:  
-AI Systems • Logic • LLM • Architecture • Python
+AI Systems • Planner • Compiler • Architecture • Runtime • LLM
 
 ---
 
-### 🛡 Aegis — System Protection / Control / Runtime Guard Concepts  
+### 🛡 Aegis — Runtime Guard / Validation / Safety Layer  
 https://github.com/studentleaner/Aegis
 
-Aegis explores runtime control, validation, and protection layers for AI and software systems.
+Aegis experiments with protection, validation, and guard layers for AI and software systems.
+
+Focus areas:
+
+- Runtime validation
+- Policy gates
+- Safety checks
+- Schema enforcement
+- Control layers
 
 Keywords:  
-AI Safety • Runtime Guard • Validation • DevTools • Python
+AI Safety • Runtime Guard • Validation • Control Layer • DevTools
 
 ---
 
-### ⚙ A-24-Hour-Startup-OS — Startup Automation Framework  
+### ⚙ A-24-Hour-Startup-OS — System Framework for Rapid Product Building  
 https://github.com/studentleaner/A-24-Hour-Startup-OS
 
-Framework for building startup systems quickly with automation, templates, and tooling.
+Framework for building startup systems using automation, templates, and reusable architecture.
+
+Focus areas:
+
+- Automation
+- DevOps pipelines
+- System templates
+- Rapid prototyping
+- Infrastructure setup
 
 Keywords:  
-Automation • Startup Tools • DevOps • Productivity • System Design
+Automation • DevOps • Startup Tools • System Design • Framework
 
 ---
 
@@ -69,41 +112,44 @@ Automation • Startup Tools • DevOps • Productivity • System Design
 - LLM / GenAI
 - Prompt Engineering
 - Context Engineering
+- Runtime Architecture
 
 ---
 
 ## 📌 Areas of Work
 
 - LLM systems
-- AI infrastructure
+- AI architecture
+- Intelligence modeling
+- Runtime systems
 - Cloud architecture
 - DevOps automation
-- Context optimization
 - Observability
-- Runtime validation
-- System design
+- Execution engines
+- Validation / safety layers
+- System frameworks
 
 ---
 
 ## 📈 Current Focus
 
 - ContextFlow development
-- LLM context optimization
-- AI pipeline architecture
-- Multi-provider LLM systems
-- Developer automation frameworks
+- Intelligence architecture research
+- LLM runtime optimization
+- Execution / planner / guard systems
+- AI infrastructure design
 
 ---
 
 ## 🤝 Collaboration
 
-Open to collaboration on:
+Interested in collaboration on:
 
-- AI / LLM projects
-- DevOps tools
-- Cloud platforms
+- AI / LLM systems
+- Runtime / execution engines
+- Cloud / DevOps tools
+- Research experiments
 - Open source infrastructure
-- GenAI experiments
 
 ---
 
